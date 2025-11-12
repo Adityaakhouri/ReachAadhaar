@@ -3,7 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Jupyter%20%7C%20Colab-lightgrey)
 ![Status](https://img.shields.io/badge/Project%20Stage-Case%20Study%20%7C%20Prototype-orange)
 
-# Strategic Aadhaar Centre Placement using Night Time Lights(NTL), Census & Accessibility Data
+# Reach Aadhar:Strategic Aadhaar Centre Placement using Night Time Lights(NTL), Census & Accessibility Data
 Case Study: Varanasi District, Uttar Pradesh
 
 ## Project Overview
